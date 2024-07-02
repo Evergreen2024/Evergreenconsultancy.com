@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teferi Beyene Ayele - Evergreen Consultancy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #333;
+        }
+        nav a {
+            color: #ffffff;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background: #575757;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .bio {
+            background: #ffffff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Evergreen Consultancy</h1>
+        <p>Teferi Beyene Ayele</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="bio">
+            <h2>About Me</h2>
+            <p>Teferi Beyene Ayele was born in 1973 in Debere Markos Town, Ethiopia. From an early age, he exhibited a passion for education and community service, setting the stage for a diverse and impactful career path.</p>
+            <p>Teferi commenced his academic journey at Chagni Elementary School, where he laid the foundation for his future endeavors. Continuing his education, he attended Chagni Junior Secondary School for his junior years and then progressed to Chagni Senior Secondary School for his high school education.</p>
+            <p>In pursuit of higher learning, Teferi enrolled at Bahir Dar University in 2001, where he earned a Bachelor of Education degree with a specialization in History. His academic pursuits didn't end there, as he furthered his studies at Bahir Dar University, obtaining a Master of Education degree in Psychology in 2010.</p>
+            <p>Determined to broaden his knowledge and skill set, Teferi pursued another academic venture, earning a Bachelor of Arts degree in Business Management from Rifet Valley University in 2021. This diverse educational background equipped him with a comprehensive understanding of various disciplines, enabling him to approach challenges from multiple perspectives.</p>
+            <p>Throughout his professional journey, Teferi has held esteemed positions in both government and civic organizations, demonstrating his commitment to public service and community development. From 2003 to 2006, he served as a Cultural Affairs Senior Expert, where he played a pivotal role in preserving and promoting Ethiopia's rich cultural heritage.</p>
+            <p>Teferi's dedication to youth empowerment and community engagement led him to assume roles such as Youth Affairs Advisor from 2009 to 2011 and Community Participation and Mobilization Advisor from 2011 to 2012. His strategic insights and communication skills were further honed during his tenure as Public Relations, Participation, and Mobilization Advisors Head from 2006 to 2009.</p>
+            <p>In recognition of his exemplary leadership and expertise, Teferi was appointed as the Public Relations and Communication Director from 2012 to 2018, where he effectively managed communication strategies and fostered positive relationships with stakeholders.</p>
+            <p>Currently, Teferi serves as a Senior Investment Advisor, leveraging his extensive experience and acumen to facilitate economic growth and development initiatives. His steadfast dedication to excellence and his unwavering commitment to serving his community continue to drive his professional endeavors.</p>
+            <p>Beyond his professional accomplishments, Teferi remains deeply engaged in his community, advocating for social justice and equity. His unwavering commitment to making a difference in the lives of others is a testament to his character and values.</p>
+        </section>
+        <section id="services" class="bio">
+            <h2>Services</h2>
+            <p>At Evergreen Consultancy, we offer a range of services to help your business thrive:</p>
+            <ul>
+                <li>Investment Advisory</li>
+                <li>Public Relations and Communications</li>
+                <li>Community Participation and Mobilization</li>
+                <li>Youth Affairs Consultation</li>
+                <li>Cultural Affairs Expertise</li>
+            </ul>
+        </section>
+        <section id="contact" class="bio">
+            <h2>Contact</h2>
+            <p>For inquiries or more information, please contact us:</p>
+            <p>Email: [Your Email Address]</p>
+            <p>Phone: [Your Phone Number]</p>
+            <p>Address: [Your Office Address]</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Evergreen Consultancy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
